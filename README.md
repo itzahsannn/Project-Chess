@@ -1,8 +1,8 @@
 # **Chess Game**
-## **Overview**
+## **Overview** 
 This repository contains a fully functional Chess game developed as a project for the second semester of my Computer Science degree at FAST-NUCES Lahore. The game is built using the SFML C++ library, featuring an interactive user interface.
 
-## **Features**
+## **Features** ✨
 **Menu:** Enjoy a appealing and user-friendly interface.  
 **Object-Oriented Programming:** Implemented using OOP principles such as inheritance, polymorphism, and abstraction.  
 **Separate Header Files:** Organized code with separate header files for pieces and the board.  
