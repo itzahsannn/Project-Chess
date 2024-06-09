@@ -15,10 +15,9 @@ This repository contains a fully functional Chess game developed as a project fo
 
 ### Missing Features
 Pin Functionality: The game currently does not support the pin functionality, allowing the King to be eliminated from the board.  
-*Run the Executable:*
-**For Windows:** Simply double-click the ChessGame.exe file located in the root directory of the repository.
 
 ### How to Play
+**Run the Executable:** Simply double-click the ChessGame.exe file located in the root directory of the repository.  
 **Selection:** Select Play or Exit  
 **Movement:** Click the pieces to move them across the board.  
 **Promotion:** When a pawn reaches the opposite end, it can be promoted to a Queen, Rook, Bishop, or Knight.  
