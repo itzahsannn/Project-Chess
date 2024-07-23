@@ -32,6 +32,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Acknowledgments  
 Thanks to devs of SFML for creating this amazing Library.    
-Special thanks to my partner @Sheraz_Malik for contributing in this Project.
+Special thanks to my project partner Sheraz Malik - https://github.com/sheraz-El for contributing in this Project.
 
 #### **Immerse yourself in the strategic depth and thrilling challenge of our Chess game. Enjoy every move!**
