@@ -24,6 +24,11 @@ Pin Functionality: The game currently does not support the pin functionality, al
 **Check and Checkmate:** The game will notify you when a check or checkmate occurs.  
 **Sound Effects:** Enjoy the added sound effects for a more immersive experience.  
 
+## Contributors
+
+- [itzahsannn](https://github.com/itzahsannn)
+- [sheraz-El](https://github.com/sheraz-El)
+
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please create an issue or submit a pull request.  
 
