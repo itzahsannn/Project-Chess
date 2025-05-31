@@ -27,7 +27,7 @@ Pin Functionality: The game currently does not support the pin functionality, al
 ## Contributors
 
 - [itzahsannn](https://github.com/itzahsannn)
-- [sheraz-El](https://github.com/sheraz-El)
+- [shmWorks](https://github.com/shmWorks)
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please create an issue or submit a pull request.  
